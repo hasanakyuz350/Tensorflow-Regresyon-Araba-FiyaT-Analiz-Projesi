@@ -1,4 +1,4 @@
-🚗# Mercedes-Benz Fiyat Tahmin Projesi (TensorFlow & Keras)
+🚗 Mercedes-Benz Fiyat Tahmin Projesi (TensorFlow & Keras)
 
 Bu proje, Mercedes-Benz otomobil verilerini analiz ederek araçların piyasa değerini tahmin etmek amacıyla geliştirilmiş bir uçtan uca makine öğrenmesi (regresyon) projesidir.
 
